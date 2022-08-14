@@ -1,0 +1,19 @@
+{
+  "HideMapInRPC": false,
+  "MapFolderPath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder",
+  "SWFilePath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\ExpertPlusStandard_ScuffedWalls.sw",
+  "InfoPath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\Info.dat",
+  "MapFilePath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\ExpertPlusStandard.dat",
+  "OldMapPath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\ExpertPlusStandard_Old.dat",
+  "ClearConsoleOnRefresh": true,
+  "IsAutoImportEnabled": false,
+  "IsBackupEnabled": false,
+  "Debug": false,
+  "IsAutoSimplifyPointDefinitionsEnabled": true,
+  "PrettyPrintJson": false,
+  "BackupPaths": {
+    "BackupFolderPath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\ExpertPlusStandardBackup",
+    "BackupSWFolderPath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\ExpertPlusStandardBackup\\SW_History",
+    "BackupMAPFolderPath": "D:\\Beat saber stuff\\BSLegacyLauncher\\CustomWIPLevels\\Pathfinder\\ExpertPlusStandardBackup\\Map_History"
+  }
+}
