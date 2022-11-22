@@ -1,0 +1,96 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Storyteller",
+  "_songSubName": "",
+  "_songAuthorName": "acloudyskye",
+  "_levelAuthorName": "Aurellis",
+  "_beatsPerMinute": 85,
+  "_previewStartTime": 69,
+  "_previewDuration": 10,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.jpg",
+  "_songFilename": "acloudyskye - Storyteller.ogg",
+  "_environmentName": "BillieEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.8.0"
+      }
+    },
+    "_contributors": [
+      {
+        "_name": "Aurellis",
+        "_role": "",
+        "_iconPath": "Icon square.png"
+      }
+    ]
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 20,
+          "_noteJumpStartBeatOffset": -0.105,
+          "_customData": {
+            "_suggestions": [
+              "Chroma"
+            ]
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_settings": {
+              "_playerOptions": {
+                "_hideNoteSpawnEffect": true,
+                "_leftHanded": false,
+                "_environmentEffectsFilterExpertPlusPreset": "AllEffects",
+                "_noTextsAndHuds": true
+              },
+              "_chroma": {
+                "_disableEnvironmentEnhancements": false,
+                "_disableChromaEvents": false
+              },
+              "_environments": {
+                "_overrideEnvironments": false,
+                "_overrideDefaultColors": false
+              },
+              "_graphics": {
+                "_maxShockwaveParticles": 0,
+                "_mainEffectGraphicsSettings": 1,
+                "_mirrorGraphicsSettings": 1
+              }
+            },
+            "_requirements": [
+              "Chroma",
+              "Noodle Extensions"
+            ],
+            "_colorLeft": {
+              "r": 0.65,
+              "g": 0.57,
+              "b": 0.45
+            },
+            "_colorRight": {
+              "r": 0.8,
+              "g": 0.8,
+              "b": 0.83
+            },
+            "_difficultyLabel": "Storyteller\n\n\n\n\n\n\n\n\n\n\n\nHello There"
+          }
+        }
+      ]
+    }
+  ]
+}
